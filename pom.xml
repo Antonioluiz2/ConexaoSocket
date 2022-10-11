@@ -4,4 +4,8 @@
   <artifactId>conexaosocket</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>conexaosocket</name>
+  <properties>
+  <maven.test.skip>true</maven.test.skip>
+  </properties>
+  
 </project>
